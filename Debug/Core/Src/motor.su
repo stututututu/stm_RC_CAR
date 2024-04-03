@@ -1,0 +1,6 @@
+../Core/Src/motor.c:14:6:Go	8	static
+../Core/Src/motor.c:23:6:Stop	8	static
+../Core/Src/motor.c:30:6:Left	8	static
+../Core/Src/motor.c:37:6:Right	8	static
+../Core/Src/motor.c:45:6:manualMode	8	static
+../Core/Src/motor.c:73:6:autoMode	4	static
